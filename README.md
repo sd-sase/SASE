@@ -1,6 +1,7 @@
 # SASE
 SASE一站式解决方案
-![Uploading image.png…]()
+![9c43109cfb971ed46ea261beb72315b](https://github.com/sd-sase/SASE/assets/40165707/c092fcec-daf4-4a55-a277-9b369b8bb8c8)
+
 
 海禛云SASE优势：
 
